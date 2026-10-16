@@ -23,6 +23,15 @@ information, and testing DNS resolution using IPv4 and IPv6.
 
 **Report:** [Read Case Study 01](case-01-network-dns-diagnostics.md)
 
+## Evidence and Screenshots
+
+Screenshots documenting the network troubleshooting exercises are available in the [Screenshots folder](Screenshots/).
+
+## Case Study Reports
+
+- [Case Study 01: Network Connectivity and DNS Diagnostics](case-01-network-dns-diagnostics.md)
+- [Case Study 02: DNS Server Troubleshooting](case-02-dns-server-troubleshooting.md)
+
 ## Skills Practised
 - Linux command-line fundamentals
 - Network connectivity testing
