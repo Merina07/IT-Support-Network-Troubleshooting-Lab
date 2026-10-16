@@ -1,54 +1,40 @@
+
 # IT Support & Network Troubleshooting Lab
 
-## Overview
+## About This Project
+A hands-on learning project focused on IT support fundamentals,
+Linux networking, DNS diagnostics, and technical documentation.
 
-This project documents practical exercises in IT support,
-Linux networking, network connectivity testing, and DNS troubleshooting.
-
-The goal is to develop hands-on troubleshooting skills and
-document findings using a structured approach.
+The goal is to develop practical troubleshooting skills through
+command-line testing and structured case studies.
 
 ## Environment
-
-- Operating System: Kali Linux
-- Virtualization: Oracle VirtualBox
-- Networking tools: ping, ip, getent, nslookup
+- Kali Linux
+- Oracle VirtualBox
+- Linux networking commands
 
 ## Case Studies
 
 ### Case Study 01: Network Connectivity and DNS Diagnostics
+Practised checking network connectivity, examining routing
+information, and testing DNS resolution using IPv4 and IPv6.
 
-**Objectives**
-- Inspect IP addressing and routing information.
-- Test local and external network connectivity.
-- Check default gateway connectivity.
-- Investigate DNS resolution.
-- Compare IPv4 and IPv6 results.
-- Document troubleshooting findings.
+**Tools used:** `ping`, `ip addr`, `ip route`, `getent`, `nslookup`
 
-**Tools used**
-- `ping`
-- `ip addr`
-- `ip route`
-- `getent`
-- `nslookup`
-
-**Status:** Initial diagnostic tests completed.
-
-A report documenting the tests and findings will be added
-to this repository.
+**Report:** [Read Case Study 01](case-01-network-dns-diagnostics.md)
 
 ## Skills Practised
-
 - Linux command-line fundamentals
-- Basic network troubleshooting
+- Network connectivity testing
 - IP addressing and routing
-- DNS resolution
+- DNS troubleshooting
 - IPv4 and IPv6 fundamentals
 - Technical documentation
 
-## Disclaimer
+## Project Status
+In progress — additional troubleshooting exercises will be added.
 
-This repository contains educational lab exercises.
-Results are documented from the tests performed.
-Unconfirmed causes are not presented as established facts.
+## Disclaimer
+This repository contains educational lab exercises. Findings are
+based on the tests performed; unconfirmed causes are not presented
+as established facts.
