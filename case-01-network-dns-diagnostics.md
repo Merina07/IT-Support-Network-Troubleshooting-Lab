@@ -41,3 +41,13 @@ A successful test confirms that the tested operation worked at that time. A time
 
 ```bash
 ip addr
+**Purpose:** To identify available network interface and inspect their IP Configuration.
+```
+
+
+### Test 2: Inspect the Routing Table
+
+**Command:**
+```bash
+ip route
+Purpose:
