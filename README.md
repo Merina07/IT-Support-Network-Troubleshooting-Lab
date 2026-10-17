@@ -35,6 +35,8 @@ Screenshots documenting the network troubleshooting exercises are available in t
 ### DNS Server Troubleshooting
 ![DNS timeout and routing](Screenshots/dns-timeout-and-routing.jpeg)
 
+
+### DNS server comparsion
 ![DNS server comparison](Screenshots/dns-server-comparison.jpeg)
 
 ### DNS Configuration and Gateway
