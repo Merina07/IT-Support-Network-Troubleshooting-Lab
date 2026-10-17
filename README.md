@@ -18,8 +18,9 @@ command-line testing and structured case studies.
 Practised checking network connectivity, examining routing
 information, and testing DNS resolution using IPv4 and IPv6.
 
-**Report** [Read Case Study 01](case-01-network-connectivity-and-dns-diagnostics.md)
+**Tools used:** `ping`, `ip addr`, `ip route`, `getent`, `nslookup`
 
+**Report:** [Read Case Study 01](case-01-network-dns-diagnostics.md)
 ### Case Study 02: DNS Server Troubleshooting
 
 Compared DNS server responses to investigate successful DNS
@@ -36,9 +37,6 @@ and check DNS resolution.
 
 **Report:** [Read Case Study 03](case-03-windows-network-diagnostics.md)
 
-**Tools used:** `ping`, `ip addr`, `ip route`, `getent`, `nslookup`
-
-**Report:** [Read Case Study 01](case-01-network-dns-diagnostics.md)
 
 ## Evidence and Screenshots
 
@@ -53,7 +51,7 @@ Screenshots documenting the network troubleshooting exercises are available in t
 ![DNS timeout and routing](Screenshots/dns-timeout-and-routing.jpeg)
 
 
-### DNS Server comparison
+### DNS Server Comparison
 ![DNS server comparison](Screenshots/dns-server-comparison.jpeg)
 
 ### DNS Configuration and Gateway
