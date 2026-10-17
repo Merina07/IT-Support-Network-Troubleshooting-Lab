@@ -95,21 +95,8 @@ No configuration changes were made.
 ### 1. Windows IP Configuration
 ![Windows IP Configuration](Screenshots/windows-ip-configuration.png)
 
-### 2. Router Connectivity
-![Router Ping Test](Screenshots/windows-router-ping.png)
-
-### 3. External IP Connectivity
-![External IP Ping Test](Screenshots/windows-external-ip-ping.png)
-
-### 4. DNS Resolution
-![DNS Lookup](Screenshots/windows-dns-lookup.png)
-
-### 5. Domain Connectivity
-![Domain Ping Test](Screenshots/windows-domain-ping.png)
-
-### 6. DNS Configuration
-![DNS Configuration](Screenshots/windows-dns-configuration.png)
-
+### 2. Connectivity and DNS Tests
+![Connectivity and DNS Tests](Screenshots/windows-connectivity-and-dns.png)
 ## Skills Practised
 - Windows Command Prompt
 - IP configuration
