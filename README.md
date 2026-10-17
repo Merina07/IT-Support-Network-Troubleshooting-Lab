@@ -45,11 +45,13 @@ Screenshots documenting the network troubleshooting exercises are available in t
 ## Case Study Reports
 - [Case Study 01: Network Connectivity and DNS Diagnostics](case-01-network-dns-diagnostics.md)
 - [Case Study 02: DNS Server Troubleshooting](case-02-dns-server-troubleshooting.md)
+- [Case Study 03: Windows Network Diagnostics](case-03-windows-network-diagnostics.md)
 
 ## Case Study Reports
 
 - [Case Study 01: Network Connectivity and DNS Diagnostics](case-01-network-dns-diagnostics.md)
 - [Case Study 02: DNS Server Troubleshooting](case-02-dns-server-troubleshooting.md)
+- [Case Study 03: Windows Network Diagnostics](case-03-windows-network-diagnostics.md)
 
 ## Skills Practised
 - Linux command-line fundamentals
