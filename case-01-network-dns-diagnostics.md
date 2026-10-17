@@ -253,25 +253,6 @@ DNS query to fd17:625c:f037:2::3	Successful	DNS response received
 System resolution for google.com	Successful	IPv6 information returned
 IPv4 resolution for google.com	Successful	IPv4 address returned
 System resolution for example.com	Successful	IPv6 information returned
-## 8. Screenshots and Evidence
-
-**The following screenshots document the network connectivity and DNS diagnostic exercises.**
-
-**Screenshot 1:** Loopback and External Connectivity
-
-This screenshot documents the loopback and external connectivity tests.
-
-Screenshot 2: DNS Timeout and Routing
-
-This screenshot documents the DNS timeout and routing checks performed during troubleshooting.
-
-Screenshot 3: DNS Server Comparison
-
-This screenshot documents the comparison of responses from different DNS server addresses.
-
-Screenshot 4: DNS Configuration and Gateway
-
-This screenshot documents the DNS configuration and gateway connectivity checks.
 
 ## 9. Troubleshooting Analysis
 
