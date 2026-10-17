@@ -21,6 +21,7 @@ information, and testing DNS resolution using IPv4 and IPv6.
 **Tools used:** `ping`, `ip addr`, `ip route`, `getent`, `nslookup`
 
 **Report:** [Read Case Study 01](case-01-network-dns-diagnostics.md)
+
 ### Case Study 02: DNS Server Troubleshooting
 
 Compared DNS server responses to investigate successful DNS
@@ -35,7 +36,9 @@ Used Windows Command Prompt to examine IP configuration,
 test router connectivity, verify external connectivity,
 and check DNS resolution.
 
-**Report:** [Read Case Study 03](case-03-windows-network-diagnostics.md)
+**Tools used:** `ipconfig`, `ping`, `nslookup`
+
+**Report:** [Read Case Study 03](case-03-windows-network-diagnostics.md) 
 
 
 ## Evidence and Screenshots
