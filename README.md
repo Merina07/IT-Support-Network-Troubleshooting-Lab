@@ -27,6 +27,23 @@ information, and testing DNS resolution using IPv4 and IPv6.
 
 Screenshots documenting the network troubleshooting exercises are available in the [Screenshots folder](Screenshots/).
 
+## Screenshots
+
+### Network Connectivity Tests
+![Connectivity tests](Screenshots/loopback-and-external-connectivity.jpeg)
+
+### DNS Server Troubleshooting
+![DNS timeout and routing](Screenshots/dns-timeout-and-routing.jpeg)
+
+![DNS server comparison](Screenshots/dns-server-comparison.jpeg)
+
+### DNS Configuration and Gateway
+![DNS configuration and gateway test](Screenshots/dns-configuration-and-gateway-test.jpeg)
+
+## Case Study Reports
+- [Case Study 01: Network Connectivity and DNS Diagnostics](case-01-network-dns-diagnostics.md)
+- [Case Study 02: DNS Server Troubleshooting](case-02-dns-server-troubleshooting.md)
+
 ## Case Study Reports
 
 - [Case Study 01: Network Connectivity and DNS Diagnostics](case-01-network-dns-diagnostics.md)
