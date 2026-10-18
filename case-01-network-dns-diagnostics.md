@@ -242,17 +242,17 @@ getent hosts example.com
 **Finding:** The system returned IPv6 address information for the domain.
 
 ## 7. Results Summary
-Test	Result	Observation
-Loopback connectivity	Successful	4 packets received
-External IP connectivity to 1.1.1.1	Successful	4 packets received
-Gateway connectivity to 10.0.2.2	Successful	4 packets received
-Additional IP connectivity to 4.4.4.4	Unsuccessful	100% packet loss
-DNS query to 8.8.8.8	Successful	DNS response received
-DNS query to 4.4.4.4	Timed out	No response received
-DNS query to fd17:625c:f037:2::3	Successful	DNS response received
-System resolution for google.com	Successful	IPv6 information returned
-IPv4 resolution for google.com	Successful	IPv4 address returned
-System resolution for example.com	Successful	IPv6 information returned
+|Test	Result	Observation|
+|Loopback connectivity	Successful	4 packets received|
+|External IP connectivity to 1.1.1.1	Successful	4 packets received|
+|Gateway connectivity to 10.0.2.2	Successful	4 packets received|
+|Additional IP connectivity to 4.4.4.4	Unsuccessful	100% packet loss|
+|DNS query to 8.8.8.8	Successful	DNS response received|
+|DNS query to 4.4.4.4	Timed out	No response received|
+|DNS query to fd17:625c:f037:2::3	Successful	DNS response received|
+|System resolution for google.com	Successful	IPv6 information returned|
+|IPv4 resolution for google.com	Successful	IPv4 address returned|
+|System resolution for example.com	Successful	IPv6 information returned|
 
 ## 8. Screenshots and Evidence
 
