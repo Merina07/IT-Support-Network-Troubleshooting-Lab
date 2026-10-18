@@ -254,6 +254,35 @@ System resolution for google.com	Successful	IPv6 information returned
 IPv4 resolution for google.com	Successful	IPv4 address returned
 System resolution for example.com	Successful	IPv6 information returned
 
+## 8. Screenshots and Evidence
+
+The following screenshots document the network connectivity and DNS diagnostic tests performed in Kali Linux.
+
+### Screenshot 1: Loopback and External Connectivity
+
+This screenshot documents the loopback and external IP connectivity tests.
+
+![Loopback and External Connectivity](Screenshots/loopback-and-external-connectivity.jpeg)
+
+### Screenshot 2: DNS Timeout and Routing
+
+This screenshot documents the DNS timeout and routing checks performed during troubleshooting.
+
+![DNS Timeout and Routing](Screenshots/dns-timeout-and-routing.jpeg)
+
+### Screenshot 3: DNS Server Comparison
+
+This screenshot documents the comparison of responses from different DNS servers.
+
+![DNS Server Comparison](Screenshots/dns-server-comparison.jpeg)
+
+### Screenshot 4: DNS Configuration and Gateway Test
+
+This screenshot documents the DNS configuration and gateway connectivity checks.
+
+![DNS Configuration and Gateway Test](Screenshots/dns-configuration-and-gateway-test.jpeg)
+
+
 ## 9. Troubleshooting Analysis
 
 The network connectivity tests produced different results depending on the destination.
