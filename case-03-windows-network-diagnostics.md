@@ -90,18 +90,57 @@ and domain ping tests succeeded.
 
 No network fault was identified during these tests.
 No configuration changes were made.
-## Screenshots and Evidence
+## 7 Screenshots and Evidence
 
 ### 1. Windows IP Configuration
 ![Windows IP Configuration](Screenshots/windows-ip-configuration.png)
 
 ### 2. Connectivity and DNS Tests
 ![Connectivity and DNS Tests](Screenshots/windows-connectivity-and-dns.png)
-## Skills Practised
-- Windows Command Prompt
-- IP configuration
-- Default gateway testing
-- Ping diagnostics
-- DNS lookup
-- Basic network troubleshooting
-- Technical documentation
+
+## 8. Troubleshooting Analysis
+
+The network troubleshooting tests produced successful results for the tested gateway, external IP address, and domain name.
+
+The default gateway at `192.168.1.1` responded successfully, and the external IP address `1.1.1.1` was reachable during testing.
+
+The `nslookup` command successfully resolved `example.com` using the configured DNS server `8.8.8.8`.
+
+The domain connectivity test also completed successfully, with all four ping requests receiving replies.
+
+The `ipconfig /all` command displayed the configured DNS server addresses. However, the presence of multiple DNS server entries does not confirm that every server is reachable or responding correctly.
+
+No network fault was identified during these tests, and no configuration changes were made.
+
+## 9. Conclusion
+
+The exercise demonstrated how to troubleshoot basic network connectivity and DNS resolution in Windows 11 using command-line tools.
+
+The gateway connectivity, external IP connectivity, DNS resolution, and domain connectivity tests were successful.
+
+The results indicate that the tested network functions were working during the troubleshooting session. No specific network problem was identified, and no permanent fix was required.
+
+## 10. Lessons Learned
+
+- `ipconfig` helps identify the IP address, subnet mask, and default gateway.
+- `ipconfig /all` provides detailed network configuration information.
+- `ping` helps test connectivity to a gateway, external IP address, or domain.
+- `nslookup` helps verify DNS resolution for a domain name.
+- Testing an IP address separately from a domain name helps distinguish basic IP connectivity checks from DNS-dependent checks.
+- Configured DNS server addresses do not guarantee that every server is reachable.
+- Troubleshooting reports should record actual results without claiming problems or fixes that were not confirmed.
+
+## 11. Skills Practised
+
+- Windows network configuration inspection
+- IPv4 addressing and default gateway identification
+- Network connectivity testing
+- DNS resolution troubleshooting
+- Using Windows Command Prompt
+- Analysing command-line output
+- Identifying network configuration details
+- Technical documentation and reporting
+
+## 12. Disclaimer
+
+This report documents educational network troubleshooting exercises performed in a personal lab environment. The findings reflect the results recorded during testing. No network fault was identified, and no configuration changes were made.
